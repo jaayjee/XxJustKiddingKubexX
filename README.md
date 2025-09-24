@@ -59,6 +59,8 @@ Here is how to go from not knowing what jacob is talking about to submitting a n
 - Click the `Stage All Changes` beside the lower `Changes`
 - Click the `...` to the right of the top `Changes` and click `Branch > Create Branch...` and write a name
 - Click the `Commit` button
+- Enter a commit message and submit
+- Click `Push Changes`
 - Navigate to the [Pull Request page](https://github.com/jaayjee/XxJustKiddingKubexX/pulls) and click `New pull request`
 - Select your new branch as the `Compare` and click `Create pull request`
 - Wait for Approval.
