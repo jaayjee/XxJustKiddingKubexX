@@ -69,4 +69,18 @@ Here is how to go from not knowing what jacob is talking about to submitting a n
 yktv
 
 ### Updating a Cube
-TODO
+#### I do not want to do any nerd shit
+Here is how to go from not knowing what jacob is talking about to submitting a change for an existing cube:
+
+- Make an account on [Cube Cobra](https://cubecobra.com/user/register)
+- Clone the exiting cube
+- Modify the cube
+- Under the `List` tab for your cube, click `Import/Export` and under `Export` click `Comma-Separated (.csv)`
+- Make an account on [GitHub](https://github.com/signup)
+- Navigate to [the repo](https://github.com/jaayjee/XxJustKiddingKubexX) and then the `cube.csv` that you want to edit
+- Click the edit pencil
+- Paste the contents of your exported cube (`.csv` file)
+- Click `Commit Changes`
+- Select `Create a new branch for this commit and start a pull request` and click `Propose changes` 
+- Click `Create pull request`
+- Wait for Approval.
