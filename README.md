@@ -24,8 +24,8 @@ To create a cube, copy and rename the [blank_cube](blank_cube) directory. If the
 ## Basic Workflow
 I will layout the steps for making a new cube and the steps for making a suggestion/updating an existing cube.
 
+## I do not want to do any nerd shit
 ### New Cube
-#### I do not want to do any nerd shit
 Here is how to go from not knowing what jacob is talking about to submitting a new cube:
 
 - Make an account on [Cube Cobra](https://cubecobra.com/user/register)
@@ -42,12 +42,22 @@ Here is how to go from not knowing what jacob is talking about to submitting a n
 - Click `Create pull request`
 - Wait for Approval.
 
-#### Learning git could be cool
+### Updating a cube
 - Make an account on [Cube Cobra](https://cubecobra.com/user/register)
-- Under `Your Cubes`, select `Create a New Cube` or clone an exisiting cube
-- Build/modify your cube
+- Clone the exiting cube
+- Modify the cube
 - Under the `List` tab for your cube, click `Import/Export` and under `Export` click `Comma-Separated (.csv)`
 - Make an account on [GitHub](https://github.com/signup)
+- Navigate to [the repo](https://github.com/jaayjee/XxJustKiddingKubexX) and then the `cube.csv` that you want to edit
+- Click the edit pencil
+- Paste the contents of your exported cube (`.csv` file)
+- Click `Commit Changes`
+- Select `Create a new branch for this commit and start a pull request` and click `Propose changes` 
+- Click `Create pull request`
+- Wait for Approval.
+
+## Learning git could be cool
+Follow the cube creation/modification steps from above. Then come here once you hit the GitHub steps
 - Install [git](https://git-scm.com/downloads/win) (guide for this step and the next few found under steps 1-3 [here](https://courses.cs.washington.edu/courses/cse154/21sp/resources/assets/vscode-git-tutorial/windows/index.html#installandsetupvscode))
 - Install [Visual Studio Code](https://code.visualstudio.com/)
 - Click the Source Control button on the left, click `Clone Repository` and input `https://github.com/jaayjee/XxJustKiddingKubexX`
@@ -63,24 +73,4 @@ Here is how to go from not knowing what jacob is talking about to submitting a n
 - Click `Push Changes`
 - Navigate to the [Pull Request page](https://github.com/jaayjee/XxJustKiddingKubexX/pulls) and click `New pull request`
 - Select your new branch as the `Compare` and click `Create pull request`
-- Wait for Approval.
-
-#### Advanced
-yktv
-
-### Updating a Cube
-#### I do not want to do any nerd shit
-Here is how to go from not knowing what jacob is talking about to submitting a change for an existing cube:
-
-- Make an account on [Cube Cobra](https://cubecobra.com/user/register)
-- Clone the exiting cube
-- Modify the cube
-- Under the `List` tab for your cube, click `Import/Export` and under `Export` click `Comma-Separated (.csv)`
-- Make an account on [GitHub](https://github.com/signup)
-- Navigate to [the repo](https://github.com/jaayjee/XxJustKiddingKubexX) and then the `cube.csv` that you want to edit
-- Click the edit pencil
-- Paste the contents of your exported cube (`.csv` file)
-- Click `Commit Changes`
-- Select `Create a new branch for this commit and start a pull request` and click `Propose changes` 
-- Click `Create pull request`
 - Wait for Approval.
